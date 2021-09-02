@@ -1,4 +1,4 @@
-const searchFood = () => {
+const searchBook = () => {
 
     const searchField = document.getElementById('Book-search');
     const searchText = searchField.value;
